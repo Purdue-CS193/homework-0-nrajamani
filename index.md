@@ -38,7 +38,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 --->
 # Neha Rajamani's First CS193 Homework
 ### Some of my favorite things about CS193 are...
-- The lecturers are also students so it's easier to come to them
-- The course isn't made to do much damage to your GPA
+- The lecturers are also students so it's easier to come and communicate with them
+- The course isn't made to deal much damage to your GPA
 - It's informative in a way that doesn't stress you out
 - The atmosphere of the class is pretty positive and comfortable!
